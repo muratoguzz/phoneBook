@@ -99,18 +99,3 @@ while True:
 
     else:
         print("Geçersiz işlem yaptınız")
-            
-           
-                
-
-
-
-
-
-
-
-
-
-          
-
-
